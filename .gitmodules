@@ -89,3 +89,6 @@
 [submodule "src/drivers/uavcan/libdronecan/libuavcan/dsdl_compiler/pydronecan"]
 	path = src/drivers/uavcan/libdronecan/libuavcan/dsdl_compiler/pydronecan
 	url = https://github.com/dronecan/pydronecan
+[submodule "Tools/simulation/PX4-gazebo-models_H3"]
+	path = Tools/simulation/PX4-gazebo-models_H3
+	url = https://github.com/eroscribello/PX4-gazebo-models_H3.git
